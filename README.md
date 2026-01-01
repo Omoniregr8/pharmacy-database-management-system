@@ -22,6 +22,6 @@ pharmacy operations, record keeping, and efficiency.
 ## Tech Stack
 - Programming logic; Python
 - Database management; for testing sqlite3 but for production PostgreSQL
-- System design; Pure Html Css ie bootstrap and Js
+- System design; Pure HTML CSS and JS
 
 More updates coming.
